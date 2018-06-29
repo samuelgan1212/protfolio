@@ -5,7 +5,7 @@
 }
 .headshot{
     width:20%;
-   
+   display:center;
 }
 .mid{
     background-color:white;
@@ -31,5 +31,23 @@
     justify-content: space-evenly;
     flex-direction:row;
 }    
-.pic{width:100%;
+.pic{
+    width:100%;
+}
+.portfolio{
+    font-family: 'Noto Serif', serif;
+}
+.aboutmecss{
+    font-family: 'Poiret One', cursive;
+    font-size: 30px;
+    background-color: black;
+    color:white;
+}
+.portfoliopic{
+    width:50%;
+    height:50%;
+}
+.contactpic{
+     background-image: url("https://i.imgur.com/rcr1Q5M.gif");
+     color:white;
 }
