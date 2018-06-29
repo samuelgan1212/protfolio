@@ -44,10 +44,10 @@
     color:white;
 }
 .portfoliopic{
-    width:50%;
-    height:50%;
+    width:200px;
+    height:200px;
 }
 .contactpic{
-     background-image: url("https://i.imgur.com/rcr1Q5M.gif");
-     color:white;
+    background-image: url("https://i.imgur.com/rcr1Q5M.gif");
+    color:white;
 }
